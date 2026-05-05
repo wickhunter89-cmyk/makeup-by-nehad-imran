@@ -374,7 +374,7 @@ function Footer() {
             rel="noopener noreferrer"
             className="footer-link-subtle transition-colors"
           >
-            Built with love using caffeine.ai
+            Designed By Kavya Chaudhary
           </a>
         </div>
       </div>
