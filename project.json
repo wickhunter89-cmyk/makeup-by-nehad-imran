@@ -1,0 +1,28 @@
+{
+  "overview": "A luxury 3D-animated portfolio website for Makeup by Nehad Imran, a premium makeup artist studio in Bengaluru. Features a stunning dark/pinkish theme with Three.js 3D hero animations, gallery of 11 bridal makeup photos, services, testimonials, FAQ, contact with map, and floating WhatsApp/Instagram buttons.",
+  "features": [
+    "3D animated hero with floating particles and geometric shapes",
+    "Hero premium photo with pinkish glow frame",
+    "Services grid with hover animations",
+    "Gallery of 11 bridal makeup photos with lightbox",
+    "Why Choose Us with celebrity credential callout",
+    "Indian customer testimonials with star ratings",
+    "FAQ accordion with smooth animations",
+    "Contact section with embedded map",
+    "Floating WhatsApp and Instagram buttons",
+    "Dark/pinkish theme with blurry glow effects throughout",
+    "Scroll-triggered animations on all sections",
+    "Mobile-responsive design"
+  ],
+  "category": "portfolio",
+  "tags": [
+    "makeup-artist",
+    "bridal",
+    "3d-animations",
+    "luxury",
+    "portfolio",
+    "beauty",
+    "india"
+  ],
+  "last_updated": "2026-05-05T15:38:54.495Z"
+}
