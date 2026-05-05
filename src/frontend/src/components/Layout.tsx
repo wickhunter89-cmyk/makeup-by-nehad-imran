@@ -369,7 +369,7 @@ function Footer() {
         >
           <p>© {year} Makeup by Nehad Imran. All rights reserved.</p>
           <a
-            href={caffeineUrl}
+            href={kavyarl}
             target="_blank"
             rel="noopener noreferrer"
             className="footer-link-subtle transition-colors"
