@@ -582,7 +582,7 @@ const WHY_REASONS = [
   {
     icon: "🏆",
     title: "Celebrity-Trusted",
-    desc: "Nehad's work has graced Bollywood red carpets, brand campaigns, and major award shows.",
+    desc: "AS work has graced Bollywood red carpets, brand campaigns, and major award shows.",
   },
   {
     icon: "💎",
@@ -670,14 +670,14 @@ function AboutSection() {
                   whileHover={{ scale: 1.03, rotateZ: -1 }}
                   transition={{ type: "spring", stiffness: 200 }}
                   src={GALLERY_IMAGES[1]}
-                  alt="Nehad at work"
+                  alt="AS at work"
                   className="rounded-2xl w-full h-56 object-cover object-top shadow-lg col-span-1"
                 />
                 <motion.img
                   whileHover={{ scale: 1.03, rotateZ: 1 }}
                   transition={{ type: "spring", stiffness: 200 }}
                   src={GALLERY_IMAGES[2]}
-                  alt="Nehad portfolio"
+                  alt="AS portfolio"
                   className="rounded-2xl w-full h-56 object-cover object-top shadow-lg col-span-1 mt-6"
                 />
                 <motion.img
@@ -728,7 +728,7 @@ function AboutSection() {
                 </span>
               </h2>
               <p className="font-body text-muted-foreground leading-relaxed mb-4">
-                Nehad Imran is a celebrated professional makeup artist based in
+                AS is a celebrated professional makeup artist based in
                 Jodhpur, Rajasthan, with over 8 years of expertise in bridal,
                 editorial, celebrity makeup, SFX & prosthetic makeup. The studio
                 — As makeover and makeup studio — has become the go-to
@@ -737,7 +737,7 @@ function AboutSection() {
               </p>
               <p className="font-body text-muted-foreground leading-relaxed mb-6">
                 From intimate bridal preparations to high-octane Bollywood
-                shoots, Nehad brings an unrivalled understanding of Indian skin
+                shoots, AS  brings an unrivalled understanding of Indian skin
                 tones, a steady artistic hand, and a warmth that makes every
                 session feel like a luxury ritual. Her celebrity portfolio
                 speaks for itself — a testament to trust, talent, and
@@ -772,35 +772,35 @@ const REVIEWS = [
   {
     name: "Priya Sharma",
     role: "Bride, Jodhpur",
-    text: "Nehad is an absolute genius! My bridal look was beyond perfect. She understood exactly what I wanted and the long-lasting makeup stayed flawless through 8 hours of celebrations.",
+    text: "AS is an absolute genius! My bridal look was beyond perfect. She understood exactly what I wanted and the long-lasting makeup stayed flawless through 8 hours of celebrations.",
     stars: 5,
     avatar: "P",
   },
   {
     name: "Anjali Menon",
     role: "Film Actor, Mumbai",
-    text: "Working with Nehad on my last three projects was incredible. Her understanding of camera lighting and HD-ready formulas is second to none. A true professional.",
+    text: "Working with AS on my last three projects was incredible. Her understanding of camera lighting and HD-ready formulas is second to none. A true professional.",
     stars: 5,
     avatar: "A",
   },
   {
     name: "Sunita Rao",
     role: "Bride, Hyderabad",
-    text: "I flew in from Hyderabad specifically for Nehad. Her expertise with South Indian bridal looks is unmatched. The silk saree draping was also done beautifully.",
+    text: "I flew in from Hyderabad specifically for AS. Her expertise with South Indian bridal looks is unmatched. The silk saree draping was also done beautifully.",
     stars: 5,
     avatar: "S",
   },
   {
     name: "Kavitha Nair",
     role: "Wedding Guest",
-    text: "Booked Nehad for my sister’s wedding and the whole bridal party looked stunning. She handled 6 looks back to back with the same energy and artistry from start to finish.",
+    text: "Booked AS for my sister’s wedding and the whole bridal party looked stunning. She handled 6 looks back to back with the same energy and artistry from start to finish.",
     stars: 5,
     avatar: "K",
   },
   {
     name: "Deepa Krishnamurthy",
     role: "Model & Influencer",
-    text: "My go-to artist for every major shoot! Nehad’s editorial eye and ability to create versatile looks for different concepts is why I keep coming back.",
+    text: "My go-to artist for every major shoot! AS’s editorial eye and ability to create versatile looks for different concepts is why I keep coming back.",
     stars: 5,
     avatar: "D",
   },
@@ -888,7 +888,7 @@ const FAQS = [
   },
   {
     q: "Do you travel for destination weddings?",
-    a: "Absolutely. Nehad is available for destination weddings across India and internationally. Travel and accommodation fees apply.",
+    a: "Absolutely. AS is available for destination weddings across India and internationally. Travel and accommodation fees apply.",
   },
   {
     q: "What brands do you use?",
