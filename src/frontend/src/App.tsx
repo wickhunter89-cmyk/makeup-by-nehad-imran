@@ -190,9 +190,9 @@ function HeroSection() {
           >
             Makeup
             <br />
-            <span className="shimmer-gold glow-text">by Nehad</span>
+            <span className="shimmer-gold glow-text">As makeover</span>
             <br />
-            <span className="text-foreground/60">Imran</span>
+            <span className="text-foreground/60">Studio</span>
           </motion.h1>
 
           <motion.p
@@ -319,7 +319,7 @@ function CelebritySection() {
           <SectionTitle
             tag="Celebrity Portfolio"
             title="Trusted by the Stars"
-            subtitle="Nehad Imran has crafted iconic looks for top Bollywood & South Indian celebrities, bringing professional glamour to every frame."
+            subtitle="As makeover and makeup studio has crafted iconic looks for top Bollywood & South Indian celebrities, bringing professional glamour to every frame."
           />
         </SectionReveal>
 
@@ -514,7 +514,7 @@ function GallerySection() {
           <SectionTitle
             tag="Portfolio"
             title="The Art of Transformation"
-            subtitle="Every look tells a story. Browse through Nehad's signature work — from editorial glamour to timeless bridal elegance."
+            subtitle="Every look tells a story. Browse through our signature work — from editorial glamour to timeless bridal elegance."
           />
         </SectionReveal>
 
@@ -607,7 +607,7 @@ const WHY_REASONS = [
   {
     icon: "📱",
     title: "Home & On-Location",
-    desc: "We come to you. Home visits across Bengaluru and on-location for shoots and weddings.",
+    desc: "We come to you. Home visits across Jodhpur, Rajasthan and on-location for shoots and weddings.",
   },
 ];
 
@@ -619,7 +619,7 @@ function WhyUsSection() {
         <SectionReveal>
           <SectionTitle
             tag="Why Choose Us"
-            title="The Nehad Imran Difference"
+            title="The As Makeover Difference"
             subtitle="More than makeup — a complete luxury experience that ensures you look and feel extraordinary."
           />
         </SectionReveal>
@@ -719,7 +719,7 @@ function AboutSection() {
           <SectionReveal delay={0.2}>
             <div>
               <span className="inline-block text-xs font-body tracking-[0.3em] uppercase text-primary mb-4 px-4 py-1.5 rounded-full border border-primary/30 bg-primary/10">
-                About Nehad Imran
+                About the Studio
               </span>
               <h2 className="font-display text-4xl md:text-5xl font-bold text-foreground mt-4 mb-6">
                 Crafting Beauty,
@@ -729,9 +729,9 @@ function AboutSection() {
               </h2>
               <p className="font-body text-muted-foreground leading-relaxed mb-4">
                 Nehad Imran is a celebrated professional makeup artist based in
-                Bengaluru, Karnataka, with over 8 years of expertise in bridal,
-                editorial, and celebrity makeup. Her studio — nestled in the
-                vibrant Jayamahal neighbourhood — has become the go-to
+                Jodhpur, Rajasthan, with over 8 years of expertise in bridal,
+                editorial, celebrity makeup, SFX & prosthetic makeup. The studio
+                — As makeover and makeup studio — has become the go-to
                 destination for discerning clients who demand nothing but the
                 best.
               </p>
@@ -771,7 +771,7 @@ function AboutSection() {
 const REVIEWS = [
   {
     name: "Priya Sharma",
-    role: "Bride, Bengaluru",
+    role: "Bride, Jodhpur",
     text: "Nehad is an absolute genius! My bridal look was beyond perfect. She understood exactly what I wanted and the long-lasting makeup stayed flawless through 8 hours of celebrations.",
     stars: 5,
     avatar: "P",
@@ -822,7 +822,7 @@ function ReviewsSection() {
           <SectionTitle
             tag="Client Reviews"
             title="What Our Clients Say"
-            subtitle="Genuine reviews from brides, celebrities, and clients who experienced the Nehad Imran magic."
+            subtitle="Genuine reviews from brides, celebrities, and clients who experienced the As makeover studio magic."
           />
         </SectionReveal>
 
@@ -900,7 +900,7 @@ const FAQS = [
   },
   {
     q: "Do you provide home services?",
-    a: "Yes, we offer home visits across Bengaluru. Additional travel charges may apply based on distance from our studio in Jayamahal.",
+    a: "Yes, we offer home visits across Jodhpur, Rajasthan. Additional travel charges may apply based on distance from our studio near Nagori Gate.",
   },
 ];
 
@@ -914,7 +914,7 @@ function FAQSection() {
           <SectionTitle
             tag="FAQ"
             title="Frequently Asked Questions"
-            subtitle="Everything you need to know before booking your session with Nehad Imran."
+            subtitle="Everything you need to know before booking your session with As makeover and makeup studio."
           />
         </SectionReveal>
 
@@ -991,7 +991,7 @@ function MapSection() {
           <SectionTitle
             tag="Find Us"
             title="Visit the Studio"
-            subtitle="Located in the heart of Bengaluru's Jayamahal neighbourhood, our studio is easily accessible."
+            subtitle="Located near Nagori Gate Kila Rd, Jodhpur, Rajasthan — our studio is easily accessible."
           />
         </SectionReveal>
 
@@ -999,14 +999,14 @@ function MapSection() {
           <SectionReveal>
             <div className="relative rounded-2xl overflow-hidden border border-primary/20 shadow-[0_8px_40px_oklch(0.42_0.1_45/0.12)] h-72 lg:h-96">
               <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.516!2d77.5946!3d13.0060!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae178e8b4ac735%3A0x7f8b2e28c2e2f2f2!2sJayamahal%2C%20Bengaluru%2C%20Karnataka!5e0!3m2!1sen!2sin!4v1683000000000!5m2!1sen!2sin"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3602.0!2d73.0243!3d26.2389!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39418c5b1c5e6b4f%3A0x1a2b3c4d5e6f7a8b!2sNagori%20Gate%20Kila%20Rd%2C%20Jodhpur%2C%20Rajasthan%20342001!5e0!3m2!1sen!2sin!4v1715000000000!5m2!1sen!2sin"
                 width="100%"
                 height="100%"
                 style={{ border: 0, filter: "sepia(0.3) saturate(0.8)" }}
                 allowFullScreen
                 loading="lazy"
                 referrerPolicy="no-referrer-when-downgrade"
-                title="Makeup by Nehad Imran Studio Location"
+                title="As makeover and makeup studio SFX & prosthetic makeup — Jodhpur"
               />
             </div>
           </SectionReveal>
@@ -1041,11 +1041,11 @@ function MapSection() {
                       Studio Address
                     </h4>
                     <p className="font-body text-sm text-muted-foreground leading-relaxed">
-                      2nd Floor, 4, VP Deenadayalu Naidu Rd,
+                      In side, S makeover and studio, jaloria bas,
                       <br />
-                      Nandi Durga Road Extension, Jayamahal,
+                      Nagori Gate Kila Rd, near Pratap kirana store,
                       <br />
-                      Bengaluru, Karnataka 560046
+                      Jodhpur, Rajasthan 342001
                     </p>
                   </div>
                 </div>
@@ -1074,10 +1074,10 @@ function MapSection() {
                       Phone
                     </h4>
                     <a
-                      href="tel:09986660543"
+                      href="tel:09610659366"
                       className="font-body text-sm text-primary hover:underline"
                     >
-                      09986660543
+                      09610659366
                     </a>
                   </div>
                 </div>
@@ -1165,13 +1165,13 @@ function CTASection() {
             className="font-body text-lg mb-10 max-w-xl mx-auto"
             style={{ color: "oklch(0.78 0.02 65)" }}
           >
-            Book your session with Nehad Imran today. Whether it&apos;s your
-            wedding day, a film set, or a special occasion — you deserve the
-            best.
+            Book your session with As makeover and makeup studio today. Whether
+            it&apos;s your wedding day, a film set, or a special occasion — you
+            deserve the best.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
-              href="tel:09986660543"
+              href="tel:09610659366"
               data-ocid="cta.call_button"
               className="px-8 py-4 rounded-full font-body font-semibold text-base transition-all duration-300 hover:scale-105"
               style={{
@@ -1180,10 +1180,10 @@ function CTASection() {
                 boxShadow: "0 8px 32px oklch(0.65 0.14 55 / 0.45)",
               }}
             >
-              📞 Call: 09986660543
+              📞 Call: 09610659366
             </a>
             <a
-              href="https://wa.me/919986660543"
+              href="https://wa.me/919610659366"
               target="_blank"
               rel="noopener noreferrer"
               data-ocid="cta.whatsapp_button"
@@ -1370,10 +1370,10 @@ function ContactSection() {
                   Prefer to call?
                 </p>
                 <a
-                  href="tel:09986660543"
+                  href="tel:09610659366"
                   className="font-body text-xl font-bold text-primary hover:underline glow-sm"
                 >
-                  09986660543
+                  09610659366
                 </a>
                 <p className="font-body text-xs text-muted-foreground mt-1">
                   Mon – Sat, 9 AM to 8 PM

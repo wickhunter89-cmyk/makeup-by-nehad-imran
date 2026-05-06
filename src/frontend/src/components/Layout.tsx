@@ -59,7 +59,7 @@ function NavBar() {
           className="flex flex-col cursor-pointer group"
         >
           <span className="font-display text-lg sm:text-xl font-bold tracking-wide text-foreground group-hover:text-primary transition-colors duration-300">
-            Makeup by Nehad Imran
+            As makeover and makeup studio SFX & prosthetic makeup
           </span>
           <span className="text-[10px] tracking-[0.25em] text-primary uppercase font-body opacity-80">
             Premium Makeup Studio
@@ -171,7 +171,7 @@ function FloatingButtons() {
     <div className="fixed bottom-8 right-6 z-50 flex flex-col gap-3">
       {/* WhatsApp / Phone */}
       <a
-        href="tel:09986660543"
+        href="tel:09610659366"
         data-ocid="floating.phone_button"
         aria-label="Call us"
         className="group w-12 h-12 rounded-full flex items-center justify-center bg-primary shadow-[0_4px_20px_oklch(0.42_0.1_45/0.35)] hover:shadow-[0_6px_32px_oklch(0.58_0.14_52/0.55)] transition-all duration-300 hover:scale-110 border border-primary/30"
@@ -248,15 +248,15 @@ function Footer() {
               className="font-display text-2xl font-bold mb-3"
               style={{ color: "oklch(0.88 0.04 68)" }}
             >
-              Makeup by Nehad Imran
+              As makeover and makeup studio SFX & prosthetic makeup
             </h3>
             <p
               className="text-sm font-body leading-relaxed mb-4"
               style={{ color: "oklch(0.72 0.03 60)" }}
             >
-              Premium makeup artist studio in Bengaluru. Bringing luxury and
-              artistry to every client — from bridal looks to celebrity
-              appearances.
+              Premium makeup artist studio in Jodhpur, Rajasthan. Bringing
+              luxury and artistry to every client — from bridal looks to
+              celebrity appearances.
             </p>
             <div className="flex gap-3">
               <div
@@ -304,11 +304,11 @@ function Footer() {
                   />
                 </svg>
                 <span>
-                  2nd Floor, 4, VP Deenadayalu Naidu Rd,
+                  In side, S makeover and studio, jaloria bas,
                   <br />
-                  Nandi Durga Road Extension, Jayamahal,
+                  Nagori Gate Kila Rd, near Pratap kirana store,
                   <br />
-                  Bengaluru, Karnataka 560046
+                  Jodhpur, Rajasthan 342001
                 </span>
               </li>
               <li className="flex items-center gap-2">
@@ -328,10 +328,10 @@ function Footer() {
                   />
                 </svg>
                 <a
-                  href="tel:09986660543"
+                  href="tel:09610659366"
                   className="footer-link transition-colors"
                 >
-                  09986660543
+                  09610659366
                 </a>
               </li>
             </ul>
@@ -367,14 +367,17 @@ function Footer() {
             color: "oklch(0.55 0.03 55)",
           }}
         >
-          <p>© {year} Makeup by Nehad Imran. All rights reserved.</p>
+          <p>
+            © {year} As makeover and makeup studio SFX & prosthetic makeup. All
+            rights reserved.
+          </p>
           <a
-            href={"https://google.com"}
+            href={caffeineUrl}
             target="_blank"
             rel="noopener noreferrer"
             className="footer-link-subtle transition-colors"
           >
-            Designed By Kavya Chaudhary
+            Built with love using caffeine.ai
           </a>
         </div>
       </div>

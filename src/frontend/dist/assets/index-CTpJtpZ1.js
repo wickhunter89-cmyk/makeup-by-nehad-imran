@@ -27188,7 +27188,7 @@ function NavBar() {
               "data-ocid": "nav.logo",
               className: "flex flex-col cursor-pointer group",
               children: [
-                /* @__PURE__ */ jsxRuntimeExports.jsx("span", { className: "font-display text-lg sm:text-xl font-bold tracking-wide text-foreground group-hover:text-primary transition-colors duration-300", children: "Makeup by Nehad Imran" }),
+                /* @__PURE__ */ jsxRuntimeExports.jsx("span", { className: "font-display text-lg sm:text-xl font-bold tracking-wide text-foreground group-hover:text-primary transition-colors duration-300", children: "As makeover and makeup studio SFX & prosthetic makeup" }),
                 /* @__PURE__ */ jsxRuntimeExports.jsx("span", { className: "text-[10px] tracking-[0.25em] text-primary uppercase font-body opacity-80", children: "Premium Makeup Studio" })
               ]
             }
@@ -27292,7 +27292,7 @@ function FloatingButtons() {
   return /* @__PURE__ */ jsxRuntimeExports.jsx("div", { className: "fixed bottom-8 right-6 z-50 flex flex-col gap-3", children: /* @__PURE__ */ jsxRuntimeExports.jsxs(
     "a",
     {
-      href: "tel:09986660543",
+      href: "tel:09610659366",
       "data-ocid": "floating.phone_button",
       "aria-label": "Call us",
       className: "group w-12 h-12 rounded-full flex items-center justify-center bg-primary shadow-[0_4px_20px_oklch(0.42_0.1_45/0.35)] hover:shadow-[0_6px_32px_oklch(0.58_0.14_52/0.55)] transition-all duration-300 hover:scale-110 border border-primary/30",
@@ -27367,7 +27367,7 @@ function Footer() {
               {
                 className: "font-display text-2xl font-bold mb-3",
                 style: { color: "oklch(0.88 0.04 68)" },
-                children: "Makeup by Nehad Imran"
+                children: "As makeover and makeup studio SFX & prosthetic makeup"
               }
             ),
             /* @__PURE__ */ jsxRuntimeExports.jsx(
@@ -27375,7 +27375,7 @@ function Footer() {
               {
                 className: "text-sm font-body leading-relaxed mb-4",
                 style: { color: "oklch(0.72 0.03 60)" },
-                children: "Premium makeup artist studio in Bengaluru. Bringing luxury and artistry to every client — from bridal looks to celebrity appearances."
+                children: "Premium makeup artist studio in Jodhpur, Rajasthan. Bringing luxury and artistry to every client — from bridal looks to celebrity appearances."
               }
             ),
             /* @__PURE__ */ jsxRuntimeExports.jsxs("div", { className: "flex gap-3", children: [
@@ -27442,11 +27442,11 @@ function Footer() {
                       }
                     ),
                     /* @__PURE__ */ jsxRuntimeExports.jsxs("span", { children: [
-                      "2nd Floor, 4, VP Deenadayalu Naidu Rd,",
+                      "In side, S makeover and studio, jaloria bas,",
                       /* @__PURE__ */ jsxRuntimeExports.jsx("br", {}),
-                      "Nandi Durga Road Extension, Jayamahal,",
+                      "Nagori Gate Kila Rd, near Pratap kirana store,",
                       /* @__PURE__ */ jsxRuntimeExports.jsx("br", {}),
-                      "Bengaluru, Karnataka 560046"
+                      "Jodhpur, Rajasthan 342001"
                     ] })
                   ] }),
                   /* @__PURE__ */ jsxRuntimeExports.jsxs("li", { className: "flex items-center gap-2", children: [
@@ -27473,9 +27473,9 @@ function Footer() {
                     /* @__PURE__ */ jsxRuntimeExports.jsx(
                       "a",
                       {
-                        href: "tel:09986660543",
+                        href: "tel:09610659366",
                         className: "footer-link transition-colors",
-                        children: "09986660543"
+                        children: "09610659366"
                       }
                     )
                   ] })
@@ -27514,7 +27514,7 @@ function Footer() {
               /* @__PURE__ */ jsxRuntimeExports.jsxs("p", { children: [
                 "© ",
                 year,
-                " Makeup by Nehad Imran. All rights reserved."
+                " As makeover and makeup studio SFX & prosthetic makeup. All rights reserved."
               ] }),
               /* @__PURE__ */ jsxRuntimeExports.jsx(
                 "a",
@@ -27542,19 +27542,17 @@ function Layout({ children }) {
     /* @__PURE__ */ jsxRuntimeExports.jsx(InstagramFloat, {})
   ] });
 }
-const HERO_IMAGE = "/assets/screenshot_2026-05-05_210051-019df8c8-9610-70eb-b98a-72ed6a97d44b.png";
+const HERO_IMAGE = "/assets/screenshot_2026-05-06_222153-019dfea2-7dd6-7508-b3c8-4afddc05115f.png";
 const GALLERY_IMAGES = [
-  "/assets/screenshot_2026-05-05_210051-019df8c8-9610-70eb-b98a-72ed6a97d44b.png",
-  "/assets/screenshot_2026-05-05_210058-019df8c8-9875-75dd-8112-8c6bb6721b90.png",
-  "/assets/screenshot_2026-05-05_210112-019df8c8-986c-717d-82ac-28d1898b6a38.png",
-  "/assets/screenshot_2026-05-05_210120-019df8c8-9813-75db-a83c-168a89569eec.png",
-  "/assets/screenshot_2026-05-05_210129-019df8c8-9690-72a2-b01e-80d816af6954.png",
-  "/assets/screenshot_2026-05-05_210140-019df8c8-971c-73d4-bb0f-6b28015418bd.png",
-  "/assets/screenshot_2026-05-05_210150-019df8c8-9877-7582-8aa5-965d3d4a4f29.png",
-  "/assets/screenshot_2026-05-05_210157-019df8c8-9791-722d-bc63-8ac93f8d1ca4.png",
-  "/assets/screenshot_2026-05-05_210205-019df8c8-9914-7510-b8f9-e08761b31dfa.png",
-  "/assets/screenshot_2026-05-05_210211-019df8c8-9925-72be-adfe-492944c8722f.png",
-  "/assets/screenshot_2026-05-05_210219-019df8c8-992b-771c-873e-8c0361ec0e05.png"
+  "/assets/screenshot_2026-05-06_222153-019dfea2-7dd6-7508-b3c8-4afddc05115f.png",
+  "/assets/screenshot_2026-05-06_222206-019dfea2-7227-70c3-b15c-6b669d9cce7d.png",
+  "/assets/screenshot_2026-05-06_222217-019dfea2-7bde-7418-b010-57bae8551552.png",
+  "/assets/screenshot_2026-05-06_222225-019dfea2-7d38-778e-bbad-c56f93e5cef2.png",
+  "/assets/screenshot_2026-05-06_222255-019dfea2-784f-7111-9bde-76c8a0239a55.png",
+  "/assets/screenshot_2026-05-06_222300-019dfea2-7a98-732b-9bbe-a266fdb23a1a.png",
+  "/assets/screenshot_2026-05-06_222312-019dfea2-7a8e-71bd-845b-c198dcb88b0c.png",
+  "/assets/screenshot_2026-05-06_222334-019dfea2-7d72-7648-ab82-d4dd148dfdb8.png",
+  "/assets/screenshot_2026-05-06_222339-019dfea2-7cf3-73d4-b0b1-1e51cc56d413.png"
 ];
 function _extends() {
   return _extends = Object.assign ? Object.assign.bind() : function(n) {
@@ -79237,9 +79235,9 @@ function HeroSection() {
                     children: [
                       "Makeup",
                       /* @__PURE__ */ jsxRuntimeExports.jsx("br", {}),
-                      /* @__PURE__ */ jsxRuntimeExports.jsx("span", { className: "shimmer-gold glow-text", children: "by Nehad" }),
+                      /* @__PURE__ */ jsxRuntimeExports.jsx("span", { className: "shimmer-gold glow-text", children: "As makeover" }),
                       /* @__PURE__ */ jsxRuntimeExports.jsx("br", {}),
-                      /* @__PURE__ */ jsxRuntimeExports.jsx("span", { className: "text-foreground/60", children: "Imran" })
+                      /* @__PURE__ */ jsxRuntimeExports.jsx("span", { className: "text-foreground/60", children: "Studio" })
                     ]
                   }
                 ),
@@ -79373,7 +79371,7 @@ function CelebritySection() {
         {
           tag: "Celebrity Portfolio",
           title: "Trusted by the Stars",
-          subtitle: "Nehad Imran has crafted iconic looks for top Bollywood & South Indian celebrities, bringing professional glamour to every frame."
+          subtitle: "As makeover and makeup studio has crafted iconic looks for top Bollywood & South Indian celebrities, bringing professional glamour to every frame."
         }
       ) }),
       /* @__PURE__ */ jsxRuntimeExports.jsx("div", { className: "grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6", children: CELEBRITIES.map((celeb, i2) => /* @__PURE__ */ jsxRuntimeExports.jsx(SectionReveal, { delay: i2 * 0.1, children: /* @__PURE__ */ jsxRuntimeExports.jsxs(
@@ -79543,7 +79541,7 @@ function GallerySection() {
         {
           tag: "Portfolio",
           title: "The Art of Transformation",
-          subtitle: "Every look tells a story. Browse through Nehad's signature work — from editorial glamour to timeless bridal elegance."
+          subtitle: "Every look tells a story. Browse through our signature work — from editorial glamour to timeless bridal elegance."
         }
       ) }),
       /* @__PURE__ */ jsxRuntimeExports.jsx("div", { className: "columns-2 md:columns-3 lg:columns-4 gap-3 space-y-3", children: GALLERY_IMAGES.map((src, i2) => /* @__PURE__ */ jsxRuntimeExports.jsx(SectionReveal, { delay: i2 * 0.05, children: /* @__PURE__ */ jsxRuntimeExports.jsxs(
@@ -79637,7 +79635,7 @@ const WHY_REASONS = [
   {
     icon: "📱",
     title: "Home & On-Location",
-    desc: "We come to you. Home visits across Bengaluru and on-location for shoots and weddings."
+    desc: "We come to you. Home visits across Jodhpur, Rajasthan and on-location for shoots and weddings."
   }
 ];
 function WhyUsSection() {
@@ -79648,7 +79646,7 @@ function WhyUsSection() {
         SectionTitle,
         {
           tag: "Why Choose Us",
-          title: "The Nehad Imran Difference",
+          title: "The As Makeover Difference",
           subtitle: "More than makeup — a complete luxury experience that ensures you look and feel extraordinary."
         }
       ) }),
@@ -79737,12 +79735,12 @@ function AboutSection() {
         )
       ] }) }),
       /* @__PURE__ */ jsxRuntimeExports.jsx(SectionReveal, { delay: 0.2, children: /* @__PURE__ */ jsxRuntimeExports.jsxs("div", { children: [
-        /* @__PURE__ */ jsxRuntimeExports.jsx("span", { className: "inline-block text-xs font-body tracking-[0.3em] uppercase text-primary mb-4 px-4 py-1.5 rounded-full border border-primary/30 bg-primary/10", children: "About Nehad Imran" }),
+        /* @__PURE__ */ jsxRuntimeExports.jsx("span", { className: "inline-block text-xs font-body tracking-[0.3em] uppercase text-primary mb-4 px-4 py-1.5 rounded-full border border-primary/30 bg-primary/10", children: "About the Studio" }),
         /* @__PURE__ */ jsxRuntimeExports.jsxs("h2", { className: "font-display text-4xl md:text-5xl font-bold text-foreground mt-4 mb-6", children: [
           "Crafting Beauty,",
           /* @__PURE__ */ jsxRuntimeExports.jsx("span", { className: "block text-primary glow-sm", children: "One Look at a Time" })
         ] }),
-        /* @__PURE__ */ jsxRuntimeExports.jsx("p", { className: "font-body text-muted-foreground leading-relaxed mb-4", children: "Nehad Imran is a celebrated professional makeup artist based in Bengaluru, Karnataka, with over 8 years of expertise in bridal, editorial, and celebrity makeup. Her studio — nestled in the vibrant Jayamahal neighbourhood — has become the go-to destination for discerning clients who demand nothing but the best." }),
+        /* @__PURE__ */ jsxRuntimeExports.jsx("p", { className: "font-body text-muted-foreground leading-relaxed mb-4", children: "Nehad Imran is a celebrated professional makeup artist based in Jodhpur, Rajasthan, with over 8 years of expertise in bridal, editorial, celebrity makeup, SFX & prosthetic makeup. The studio — As makeover and makeup studio — has become the go-to destination for discerning clients who demand nothing but the best." }),
         /* @__PURE__ */ jsxRuntimeExports.jsx("p", { className: "font-body text-muted-foreground leading-relaxed mb-6", children: "From intimate bridal preparations to high-octane Bollywood shoots, Nehad brings an unrivalled understanding of Indian skin tones, a steady artistic hand, and a warmth that makes every session feel like a luxury ritual. Her celebrity portfolio speaks for itself — a testament to trust, talent, and transformation." }),
         /* @__PURE__ */ jsxRuntimeExports.jsx("div", { className: "flex flex-wrap gap-3", children: [
           "Bridal Specialist",
@@ -79765,7 +79763,7 @@ function AboutSection() {
 const REVIEWS = [
   {
     name: "Priya Sharma",
-    role: "Bride, Bengaluru",
+    role: "Bride, Jodhpur",
     text: "Nehad is an absolute genius! My bridal look was beyond perfect. She understood exactly what I wanted and the long-lasting makeup stayed flawless through 8 hours of celebrations.",
     stars: 5,
     avatar: "P"
@@ -79815,7 +79813,7 @@ function ReviewsSection() {
         {
           tag: "Client Reviews",
           title: "What Our Clients Say",
-          subtitle: "Genuine reviews from brides, celebrities, and clients who experienced the Nehad Imran magic."
+          subtitle: "Genuine reviews from brides, celebrities, and clients who experienced the As makeover studio magic."
         }
       ) }),
       /* @__PURE__ */ jsxRuntimeExports.jsx("div", { className: "grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6", children: REVIEWS.map((review, i2) => /* @__PURE__ */ jsxRuntimeExports.jsx(SectionReveal, { delay: i2 * 0.1, children: /* @__PURE__ */ jsxRuntimeExports.jsxs(
@@ -79878,7 +79876,7 @@ const FAQS = [
   },
   {
     q: "Do you provide home services?",
-    a: "Yes, we offer home visits across Bengaluru. Additional travel charges may apply based on distance from our studio in Jayamahal."
+    a: "Yes, we offer home visits across Jodhpur, Rajasthan. Additional travel charges may apply based on distance from our studio near Nagori Gate."
   }
 ];
 function FAQSection() {
@@ -79889,7 +79887,7 @@ function FAQSection() {
       {
         tag: "FAQ",
         title: "Frequently Asked Questions",
-        subtitle: "Everything you need to know before booking your session with Nehad Imran."
+        subtitle: "Everything you need to know before booking your session with As makeover and makeup studio."
       }
     ) }),
     /* @__PURE__ */ jsxRuntimeExports.jsx("div", { className: "space-y-3", children: FAQS.map((faq, i2) => /* @__PURE__ */ jsxRuntimeExports.jsx(SectionReveal, { delay: i2 * 0.08, children: /* @__PURE__ */ jsxRuntimeExports.jsxs(
@@ -79964,21 +79962,21 @@ function MapSection() {
         {
           tag: "Find Us",
           title: "Visit the Studio",
-          subtitle: "Located in the heart of Bengaluru's Jayamahal neighbourhood, our studio is easily accessible."
+          subtitle: "Located near Nagori Gate Kila Rd, Jodhpur, Rajasthan — our studio is easily accessible."
         }
       ) }),
       /* @__PURE__ */ jsxRuntimeExports.jsxs("div", { className: "grid grid-cols-1 lg:grid-cols-2 gap-8 items-center", children: [
         /* @__PURE__ */ jsxRuntimeExports.jsx(SectionReveal, { children: /* @__PURE__ */ jsxRuntimeExports.jsx("div", { className: "relative rounded-2xl overflow-hidden border border-primary/20 shadow-[0_8px_40px_oklch(0.42_0.1_45/0.12)] h-72 lg:h-96", children: /* @__PURE__ */ jsxRuntimeExports.jsx(
           "iframe",
           {
-            src: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.516!2d77.5946!3d13.0060!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae178e8b4ac735%3A0x7f8b2e28c2e2f2f2!2sJayamahal%2C%20Bengaluru%2C%20Karnataka!5e0!3m2!1sen!2sin!4v1683000000000!5m2!1sen!2sin",
+            src: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3602.0!2d73.0243!3d26.2389!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39418c5b1c5e6b4f%3A0x1a2b3c4d5e6f7a8b!2sNagori%20Gate%20Kila%20Rd%2C%20Jodhpur%2C%20Rajasthan%20342001!5e0!3m2!1sen!2sin!4v1715000000000!5m2!1sen!2sin",
             width: "100%",
             height: "100%",
             style: { border: 0, filter: "sepia(0.3) saturate(0.8)" },
             allowFullScreen: true,
             loading: "lazy",
             referrerPolicy: "no-referrer-when-downgrade",
-            title: "Makeup by Nehad Imran Studio Location"
+            title: "As makeover and makeup studio SFX & prosthetic makeup — Jodhpur"
           }
         ) }) }),
         /* @__PURE__ */ jsxRuntimeExports.jsx(SectionReveal, { delay: 0.2, children: /* @__PURE__ */ jsxRuntimeExports.jsxs("div", { className: "space-y-6", children: [
@@ -80015,11 +80013,11 @@ function MapSection() {
             /* @__PURE__ */ jsxRuntimeExports.jsxs("div", { children: [
               /* @__PURE__ */ jsxRuntimeExports.jsx("h4", { className: "font-body text-sm font-semibold text-foreground mb-1", children: "Studio Address" }),
               /* @__PURE__ */ jsxRuntimeExports.jsxs("p", { className: "font-body text-sm text-muted-foreground leading-relaxed", children: [
-                "2nd Floor, 4, VP Deenadayalu Naidu Rd,",
+                "In side, S makeover and studio, jaloria bas,",
                 /* @__PURE__ */ jsxRuntimeExports.jsx("br", {}),
-                "Nandi Durga Road Extension, Jayamahal,",
+                "Nagori Gate Kila Rd, near Pratap kirana store,",
                 /* @__PURE__ */ jsxRuntimeExports.jsx("br", {}),
-                "Bengaluru, Karnataka 560046"
+                "Jodhpur, Rajasthan 342001"
               ] })
             ] })
           ] }) }),
@@ -80048,9 +80046,9 @@ function MapSection() {
               /* @__PURE__ */ jsxRuntimeExports.jsx(
                 "a",
                 {
-                  href: "tel:09986660543",
+                  href: "tel:09610659366",
                   className: "font-body text-sm text-primary hover:underline",
-                  children: "09986660543"
+                  children: "09610659366"
                 }
               )
             ] })
@@ -80141,14 +80139,14 @@ function CTASection() {
             {
               className: "font-body text-lg mb-10 max-w-xl mx-auto",
               style: { color: "oklch(0.78 0.02 65)" },
-              children: "Book your session with Nehad Imran today. Whether it's your wedding day, a film set, or a special occasion — you deserve the best."
+              children: "Book your session with As makeover and makeup studio today. Whether it's your wedding day, a film set, or a special occasion — you deserve the best."
             }
           ),
           /* @__PURE__ */ jsxRuntimeExports.jsxs("div", { className: "flex flex-col sm:flex-row gap-4 justify-center", children: [
             /* @__PURE__ */ jsxRuntimeExports.jsx(
               "a",
               {
-                href: "tel:09986660543",
+                href: "tel:09610659366",
                 "data-ocid": "cta.call_button",
                 className: "px-8 py-4 rounded-full font-body font-semibold text-base transition-all duration-300 hover:scale-105",
                 style: {
@@ -80156,13 +80154,13 @@ function CTASection() {
                   color: "oklch(0.18 0.05 40)",
                   boxShadow: "0 8px 32px oklch(0.65 0.14 55 / 0.45)"
                 },
-                children: "📞 Call: 09986660543"
+                children: "📞 Call: 09610659366"
               }
             ),
             /* @__PURE__ */ jsxRuntimeExports.jsx(
               "a",
               {
-                href: "https://wa.me/919986660543",
+                href: "https://wa.me/919610659366",
                 target: "_blank",
                 rel: "noopener noreferrer",
                 "data-ocid": "cta.whatsapp_button",
@@ -80360,9 +80358,9 @@ function ContactSection() {
             /* @__PURE__ */ jsxRuntimeExports.jsx(
               "a",
               {
-                href: "tel:09986660543",
+                href: "tel:09610659366",
                 className: "font-body text-xl font-bold text-primary hover:underline glow-sm",
-                children: "09986660543"
+                children: "09610659366"
               }
             ),
             /* @__PURE__ */ jsxRuntimeExports.jsx("p", { className: "font-body text-xs text-muted-foreground mt-1", children: "Mon – Sat, 9 AM to 8 PM" })
