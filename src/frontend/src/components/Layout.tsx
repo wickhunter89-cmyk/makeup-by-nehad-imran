@@ -372,7 +372,7 @@ function Footer() {
             rights reserved.
           </p>
           <a
-            href={google.com}
+            href={https://www.google.com}
             target="_blank"
             rel="noopener noreferrer"
             className="footer-link-subtle transition-colors"
