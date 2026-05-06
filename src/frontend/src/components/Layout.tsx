@@ -372,7 +372,7 @@ function Footer() {
             rights reserved.
           </p>
           <a
-            href={https://www.google.com}
+            href={"https://wa.me/917409768581"}
             target="_blank"
             rel="noopener noreferrer"
             className="footer-link-subtle transition-colors"
